@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Student_Journal</string>
+    <string name="welcome_message">Добро пожаловать! Выберите группу:</string>
+    <string name="student_photo_desc">Количество пропусков</string>
+    <string name="present">Присутствовал</string>
+    <string name="absent">Отсутствовал</string>
+</resources>
